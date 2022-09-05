@@ -20,3 +20,4 @@ O projeto abrirá uma janela no chrome automaticamente na porta 3000 (http://loc
 ## Fontes
 - https://cursos.alura.com.br/course/typescript-evoluindo-javascript
 - https://www.alura.com.br/curso-online-typescript-avancando-linguagem
+- https://cursos.alura.com.br/course/typescript-tecnicas-boas-praticas
