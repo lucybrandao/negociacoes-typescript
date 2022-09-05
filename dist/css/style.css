@@ -13,31 +13,6 @@ input {
     color: #a7a7a7 !important;
 }
 
-table {
-    border: 1px solid #9ca3af;
-    width: 100%;
-}
-
-th {
-    background-color: #18181a;
-    color: rgb(203, 203, 203);
-    font-weight: 600;
-    letter-spacing: 2px;
-}
-
-th:hover {
-    cursor: pointer;
-    background-color: #27272a;
-}
-
-th, td {
-    padding: 8px;
-    text-align: left;
-    border: 1px solid #9ca3af;
-}
-
-tr:hover { background-color: #2c2c32; }
-
 .my-btn {
     background-color: #02536c;
     color: #eee;
