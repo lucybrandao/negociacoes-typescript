@@ -8,6 +8,10 @@ h1 {
     margin-top: 1rem;
 }
 
+#mensagemView {
+    margin-top: 1rem;
+}
+
 input {
     background-color: #373b3e !important;
     color: #a7a7a7 !important;
