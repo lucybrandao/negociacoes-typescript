@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/39086256/188655055-311a9467-38b3-4b7a-9222-d3078c5493d2.png)
 
+#### Ver também:
+- [lucybrandao / negociacoes](https://github.com/lucybrandao/negociacoes)
+- [lucybrandao / negociacoes-webpack](https://github.com/lucybrandao/negociacoes-webpack)
+
 ## Setup
 Dentro da pasta do projeto, rodar o comando:
 
