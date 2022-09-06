@@ -1,6 +1,6 @@
 # Negociações - TypeScript :milky_way:
 
-![image](https://user-images.githubusercontent.com/39086256/188655055-311a9467-38b3-4b7a-9222-d3078c5493d2.png)
+![image](https://user-images.githubusercontent.com/39086256/188681867-554d8b63-b1e8-49fc-97cb-acc191c6e686.png)
 
 #### Ver também:
 - [lucybrandao / negociacoes](https://github.com/lucybrandao/negociacoes)
