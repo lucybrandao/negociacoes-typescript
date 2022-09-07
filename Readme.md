@@ -19,7 +19,7 @@ Ainda na pasta raiz, rodar o comando:
 $ npm run start
 ```
 
-E dentro da pasta `servidor-api`, rodar o comando (para subir a api na porta http://localhost:8080/):
+E dentro da pasta `/servidor-api`, rodar o comando (para subir a api na porta http://localhost:8080/):
 
 ```shell
 $ npm start
