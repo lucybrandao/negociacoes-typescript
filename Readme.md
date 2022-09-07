@@ -13,10 +13,16 @@ Dentro da pasta do projeto, rodar o comando:
 $ npm install
 ```
 
-Depois, rodar o comando:
+Ainda na pasta raiz, rodar o comando:
 
 ```shell
 $ npm run start
+```
+
+E dentro da pasta `servidor-api`, rodar o comando (para subir a api na porta http://localhost:8080/):
+
+```shell
+$ npm start
 ```
 
 O projeto abrirá uma janela no chrome automaticamente na porta 3000 (http://localhost:3000/).
